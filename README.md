@@ -1,3 +1,5 @@
+# MAAF PAK, PADA GITHUB INI TIDAK SELURUH FILE TERMUAT, DIKARENAKAN BATASAN DARI GITHUB.
+# UNTUK FULLNYA ADA DI DRIVE
 # Proyek UAS: Sistem Pengenalan Wajah dan Analisis Emosi
 ## Fitur Utama
 * [cite_start]**Pengumpulan Data**: Script untuk mengambil sampel gambar wajah melalui webcam untuk membangun dataset primer[cite: 43].
